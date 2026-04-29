@@ -1,16 +1,25 @@
-## Hi there 👋
+# ExNexus
 
-<!--
-**baron-terminal/baron-terminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **[ExNexus](https://exnexus.app)** — an institutional-grade trading aggregator for crypto and stocks.
 
-Here are some ideas to get you started:
+## What it does
+A security-first multi-exchange aggregator that unifies portfolios, charts, and trading across centralized and decentralized exchanges. Multi-exchange routing (Best Price / Single / Split), AI-powered market intelligence, and unified portfolio across all asset types.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key principle
+**No custody. No withdrawals. No plaintext keys.** ExNexus is the observer/aggregator layer above exchanges — never another exchange.
+
+## Connected exchanges
+Bybit · Binance (spot + futures) · Gate.io · Alpaca (paper + live)
+
+## Stack
+- **Frontend:** HTML/JS/Tailwind, deployed via Cloudflare Pages
+- **Edge:** Cloudflare Workers (auth signing, request routing)
+- **Infrastructure:** Hetzner VPS (Node.js + Caddy) for fixed-IP exchange API access
+- **Data:** Multi-exchange API aggregation, TradingView charts, real-time price cache
+
+## Status
+Active development · Pre-launch
+
+🌐 **Live terminal:** [exnexus.app](https://exnexus.app)
+🌐 **Company:** [exnexus.co](https://exnexus.co)
+📧 **Contact:** contact@exnexus.co
