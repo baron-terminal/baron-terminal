@@ -20,6 +20,6 @@ Bybit · Binance (spot + futures) · Gate.io · Alpaca (paper + live)
 ## Status
 Active development · Pre-launch
 
-🌐 **Live terminal:** [exnexus.app](https://exnexus.co/terminal)
+🌐 **Live terminal:** [exnexus.co/terminal](https://exnexus.co/terminal)
 🌐 **Company:** [exnexus.co](https://exnexus.co)
 📧 **Contact:** contact@exnexus.co
