@@ -1,6 +1,6 @@
 # ExNexus
 
-Building **[ExNexus](https://exnexus.app)** — an institutional-grade trading aggregator for crypto and stocks.
+Building **[ExNexus](https://exnexus.co)** — an institutional-grade trading aggregator for crypto and stocks.
 
 ## What it does
 A security-first multi-exchange aggregator that unifies portfolios, charts, and trading across centralized and decentralized exchanges. Multi-exchange routing (Best Price / Single / Split), AI-powered market intelligence, and unified portfolio across all asset types.
@@ -20,6 +20,6 @@ Bybit · Binance (spot + futures) · Gate.io · Alpaca (paper + live)
 ## Status
 Active development · Pre-launch
 
-🌐 **Live terminal:** [exnexus.app](https://exnexus.app)
+🌐 **Live terminal:** [exnexus.app](https://exnexus.co/terminal)
 🌐 **Company:** [exnexus.co](https://exnexus.co)
 📧 **Contact:** contact@exnexus.co
